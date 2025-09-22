@@ -31,7 +31,7 @@ header .nav-bar {
 }
 
 .nav-bar .nav-logo .logo {
-    background-image: url("amazon_logo.png");
+    background-image: url("Pictures/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -230,7 +230,7 @@ header .top-content .nav-fill p {
 }
 
 main .hero .bg-iamge {
-    background-image: url(hero.jpg);
+    background-image: url(Pictures/hero.jpg);
     height: 400px;
     background-size: cover;
 }
